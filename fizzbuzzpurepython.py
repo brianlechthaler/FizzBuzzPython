@@ -41,7 +41,7 @@ class DivisibilityCheck:
   def euclidian_quotient(self):
     # Return the remainder euclidian quotient
     return (self.dividend
-#             %
+            %
             self.divisor)
     
   def evenly_divisible(self):
