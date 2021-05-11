@@ -11,3 +11,12 @@ class TestDivisibilityCheck(__tc__):
         # Pass this test if the generated Euclidian Quotient is what it should be
         self.assertEqual(euclqout,
                          0)
+
+    def test_evenly_divisible(self):
+        # Create a new DivisibilityTest object
+        divcheck = __divcheck__(4,2)
+        # Get the DivisibilityCheck object's evenly_divisible boolean value
+        dchkbool = divcheck.evenly_divisible()
+        # Pass this test if the generated boolean value is True like it should be
+        self.assertEqual(dchkbool,
+                         True)
