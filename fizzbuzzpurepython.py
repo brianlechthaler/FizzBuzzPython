@@ -8,7 +8,7 @@ Original file is located at
 
 # FizzBuzz in Pure Python
 
-Last updated *Monday, May 10th, 2021.*
+Last updated *Monday, May 11th, 2021.*
 
 by [Brian Lechthaler](https://github.com/brianlechthaler) (they/them)
 
