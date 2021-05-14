@@ -1,7 +1,7 @@
-# FizzBuzzPython
-FizzBuzz in Pure Python
+# 🐍 FizzBuzz
+FizzBuzz implemented in pure Python, available as a Python script and Jupyter Notebook. Both the script and notebook contain the same code, so feel free to use whichever works for you as it will function exactly the same in either case.
 
-## Python Version Compatibility
+## 🏷️ Python Version Compatibility
 Each commit to `main` is tested on the following versions of Python:
 * 3.9
 * 3.8
